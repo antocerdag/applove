@@ -14,3 +14,37 @@
 .text-uppercase {
   text-transform: uppercase;
 }
+
+.link{
+	font-weight: 700;
+	padding: 21px;
+	display: inline-block;
+}
+
+.logo{
+	float: right;
+}
+
+
+.menu{
+	padding: 14px 70px;
+	overflow: auto;
+}
+
+#services{
+	background-color: #F17C72;
+	text-align:center;
+	color: #fff;
+	padding: 70px 7px;
+}
+
+.box-services{
+	display: inline-block;
+	width: 30%;
+	margin-top: 63px;
+}
+
+.text-services{
+	font-size: 35px;
+	letter-spacing: 2px;
+}
