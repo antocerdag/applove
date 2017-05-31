@@ -48,3 +48,26 @@
 	font-size: 35px;
 	letter-spacing: 2px;
 }
+
+[class*="col-"]{
+	min-height: 7px;
+	padding: 12px;
+	float: left;
+}
+
+
+.col-4{
+	/* (4 / 12) x 100 */
+	width: 33.333333%;
+}
+
+
+
+.row:before , .row:before{
+	content: " ";
+	display: table;
+}
+
+.row:after{
+	clear: both;
+}
