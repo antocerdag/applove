@@ -61,8 +61,6 @@
 	width: 33.333333%;
 }
 
-
-
 .row:before , .row:before{
 	content: " ";
 	display: table;
@@ -70,4 +68,8 @@
 
 .row:after{
 	clear: both;
+}
+
+.hide{
+  display: none;
 }

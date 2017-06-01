@@ -159,9 +159,6 @@ footer{
   width: 60px;
 }
 
-.hide{
-  display: none;
-}
 
 /* Modal Productos */
 #imgproductos{
@@ -174,14 +171,13 @@ footer{
   z-index: 1;
 }
 
-#imgproductos .bodyDiv{
+#imgproductos .modal-body{
   width: 60%;
   margin: 0 auto;
   text-align: center;
   padding: 100px;
 
 }
-
 
 #imgproductos .close{
   position: absolute;
@@ -194,7 +190,4 @@ footer{
   width: 60px;
 }
 
-.hide{
-  display: none;
-}
 
